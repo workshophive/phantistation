@@ -14,9 +14,6 @@
   - NanotrasenRepresentative
   - BlueshieldOfficer
   requirements:
-  - !type: RoleTimeRequirement
-    role: JobResearchDirector
-    time: 86400 # 24 hrs
   - !type:OverallPlaytimeRequirement
     time: 172800 # 48 hrs
   special:
