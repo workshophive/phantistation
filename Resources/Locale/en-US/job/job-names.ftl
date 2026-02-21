@@ -91,6 +91,9 @@ job-name-security-clown = Security Clown
 job-name-command-maid = Command Maid
 job-name-party-maker = Party Maker
 
+# phanti
+job-name-bright = Bright-Eye
+
 # unused jobs
 # these are required for the agent ID job icon tooltips
 # I am keeping them for roleplaying opportunities
@@ -113,6 +116,7 @@ JobBartender = Bartender
 JobBorg = Borg
 JobBotanist = Botanist
 JobBoxer = Boxer
+JobBrightEye = Bright-Eye
 JobCaptain = Captain
 JobCargoTechnician = Cargo Technician
 JobCentralCommandOfficial = Central Command Official

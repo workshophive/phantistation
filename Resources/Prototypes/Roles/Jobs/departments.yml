@@ -267,3 +267,12 @@
   - Zookeeper
   - Psychologist
   primary: false
+
+- type: department
+  id: BraveHeart
+  name: department-BraveHeart
+  description: department-BraveHeart-description
+  color: "#D4AF37"
+  weight: 100
+  roles:
+  - BrightEye

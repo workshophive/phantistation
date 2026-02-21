@@ -60,3 +60,7 @@ alert-level-octarine-instructions = Crewmembers are advised to listen to heads o
 alert-level-honk = Honk
 alert-level-honk-announcement = A devious clown is on the loose and will cause cataclysmic damage if not executed! All crewmembers must collaborate in executing the clown if possible, or else evacuate.
 alert-level-honk-instructions = Crewmembers are advised to execute the clown.
+
+alert-level-stygian = Stygian
+alert-level-stygian-announcement = ███ ███████ ██ █████████ █████ ██████ ██ ████████ ███████████ ██ Bright-Eyes. Leave the station as soon as possible, by any means possible.
+alert-level-stygian-instructions = Crewmembers are to leave the station as soon as possible, by any means possible.

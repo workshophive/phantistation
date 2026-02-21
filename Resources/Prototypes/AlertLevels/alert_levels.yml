@@ -184,3 +184,13 @@
       emergencyLightColor: Magenta
       forceEnableEmergencyLights: true
       shuttleTime: 600
+    stygian:
+      announcement: alert-level-stygian-announcement
+      selectable: false
+      emagSelectable: false
+      sound:
+       path: /Audio/Misc/epsilon
+      color: DodgerBlue
+      emergencyLightColor: CadetBlue
+      forceEnableEmergencyLights: true
+      shuttleTime: 300

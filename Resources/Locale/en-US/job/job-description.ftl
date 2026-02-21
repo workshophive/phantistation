@@ -83,3 +83,6 @@ job-description-zookeeper = Put on a joyful display of cute animals and space ca
 job-description-command-maid = Clean the bridge, command rooms, and everything else that command tells you to.
 job-description-security-clown = Do security's job, but don't forget to do it with your clown spice.
 job-description-party-maker = Throw the biggest party ever at this station!
+
+# phantistation jobs
+job-description-bright = Survey and experiment on the Nanotrasen station. Use your medical ability to your advantage.

@@ -1,0 +1,24 @@
+- type: job
+  id: BrightEye
+  name: job-name-bright
+  description: job-description-bright
+  playTimeTracker: JobBrightEye
+  startingGear: CBURNGear
+  icon: "JobIconNanotrasen"
+  canBeAntag: false
+  accessGroups:
+  - AllAccess
+  access:
+  - CentralCommand
+  # Goobstation
+  - NanotrasenRepresentative
+  - BlueshieldOfficer
+  requirements:
+  - !type: RoleTimeRequirement
+    role: JobResearchDirector
+    time: 86400 # 24 hrs
+  - !type:OverallPlaytimeRequirement
+    time: 172800 # 48 hrs
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]

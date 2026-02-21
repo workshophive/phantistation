@@ -77,6 +77,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   The fact that an item can be something other than what its visual appearance and examine description indicate is shielded.
   Security may be aware of tampered items, but they are not aware of the specific item that is tamped. This means that security may not act on the fact that an item is tamped, but they may act on the fact that an item is suspicious.  (Example: Non-NT weapons on a persons is suspicious, how did they get it on station?)
   This shield protects stealth items, including protecting them from being tested.
+  
+  ## BraveHeart
+  
+  The existence of BraveHeart is only known to Central Command, BraveHeart itself, and the Shadowkin- everyone else is shielded.
+  You will not know until you see them.
 
 
   ## Metafriending and Metagrudging

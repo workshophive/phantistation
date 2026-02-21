@@ -45,3 +45,7 @@
   id: Honkraband 
   examineText: contraband-examine-text-Clown
   
+# Stuff used by the Bright-Eyes and the rest of BraveHeart. Highly illegal.
+- type: contrabandSeverity
+  id: BraveHeart
+  examineText: contraband-examine-text-BH
